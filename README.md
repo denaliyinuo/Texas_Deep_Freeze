@@ -37,7 +37,10 @@ In depth discussion of 2021 Texas Power Crisis
 
 Introduction to scrapped projects and their capacities.
 These DC connections would not have prevented the blackout, but would have reduced their impact and shortened the duration.
-* include stat discussing the amount of reduction in electricity at the peak blackout time.
+* include stat discussing the amount of reduction in electricity at the peak blackout time. (max shortfall of 28884 MW, could have reduced shortfall by 13.8% during this hour)
 * include stat discussing the reduction in time of the blackouts.
+
+
+Between 3 am on Feb 15th to 6 am on Feb 19th, a 97 hour period, there was an shortfall of approximately 1,670 GWh. Without considering the contributions from the influx of electricity from SWPP and CENACE, ERCOT could only satisfy about 74% of the electricity demand. The inflow from DC ties satisfied to  
 
 ![2](/png/Figure_6.png)
