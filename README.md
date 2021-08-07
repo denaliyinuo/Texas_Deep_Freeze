@@ -9,15 +9,14 @@ Potential solutions
 
 US has three grids, west, east, and texas interconnections
 
-(Include picture of interconnections)
+![1](/jpeg/us_interconnections.jpeg)
+Source: Scientific American
 
 Grids are out of phase, and cannot be directly connected using traditional AC transmission cables
 
 In order for electricity to be tranferred between seperate grids, they must travel through HVDC cables. 
 
 Currently, ERCOT has HVDC connections with SWPP and CENACE
-
-(include map showing Texas DC ties and their capacities)
 
 ![1](/jpeg/ercot.jpeg)
 
