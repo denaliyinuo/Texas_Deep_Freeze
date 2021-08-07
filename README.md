@@ -19,6 +19,8 @@ Currently, ERCOT has HVDC connections with SWPP and CENACE
 
 (include map showing Texas DC ties and their capacities)
 
+![1](/jpeg/ercot.jpeg)
+
 discuss scraped projects and their capacities
 
 (include graph comparing capacities of current DC, scraped DC ties, and generating capacity of ERCOT)
