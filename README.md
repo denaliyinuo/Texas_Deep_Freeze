@@ -33,7 +33,7 @@ In depth discussion of 2021 Texas Power Crisis
 * DC connections were for most of the crisis running near or at full capacity. Mexico cut off their electricity supply to Texas when it need it the most.
 * 
 
-![1](/png/Figure_5.png)
+![1](/png/Figure_10.png)
 
 Introduction to scrapped projects and their capacities.
 These DC connections would not have prevented the blackout, but would have reduced their impact and shortened the duration.
@@ -43,6 +43,6 @@ These DC connections would not have prevented the blackout, but would have reduc
 
 Between 3 am on Feb 15th to 6 am on Feb 19th, a 97 hour period, there was an shortfall of approximately 1,670 GWh. Without considering the contributions from the influx of electricity from SWPP and CENACE, ERCOT could only satisfy about 74% of the electricity demand. The inflow from DC ties satisfied about 4% of demand. If the two HVDC projects had not been scrapped, they would have reduced the shortfall by about 24%, resulting in about 84%   
 
-![2](/png/Figure_10.png)
-
 ![2](/png/Figure_11.png)
+
+![2](/png/Figure_8.png)
