@@ -41,6 +41,8 @@ These DC connections would not have prevented the blackout, but would have reduc
 * include stat discussing the reduction in time of the blackouts.
 
 
-Between 3 am on Feb 15th to 6 am on Feb 19th, a 97 hour period, there was an shortfall of approximately 1,670 GWh. Without considering the contributions from the influx of electricity from SWPP and CENACE, ERCOT could only satisfy about 74% of the electricity demand. The inflow from DC ties satisfied to  
+Between 3 am on Feb 15th to 6 am on Feb 19th, a 97 hour period, there was an shortfall of approximately 1,670 GWh. Without considering the contributions from the influx of electricity from SWPP and CENACE, ERCOT could only satisfy about 74% of the electricity demand. The inflow from DC ties satisfied about 4% of demand. If the two HVDC projects had not been scrapped, they would have reduced the shortfall by about 24%, resulting in about 84%   
 
 ![2](/png/Figure_6.png)
+
+![2](/png/Figure_7.png)
