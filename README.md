@@ -13,7 +13,12 @@ One of the advantages of having a network that serves a large population is that
 
 
 
-Currently, ERCOT has HVDC connections with SWPP and CENACE
+Currently, ERCOT has HVDC connections with the East Interconnection and the Mexican grid operated by CENACE (National Center for Energy Control of Mexico). 
+SWPP and CENACE. The DC ties with the East Interconnection are connected to the SWPP (Southwest Power Pool) which operates a region generally consiting of Oklahoma, Kansas, Nebraska, and large swaths of the Dakotas. The DC tie capacities are outlined below.
+
+DC Tie Capacities with ERCOT
+* SWPP - 820 MW
+* CENACE - 436 MW
 
 ![1](/jpeg/ercot.jpeg)
 
@@ -23,7 +28,7 @@ discuss scraped projects and their capacities
 
 SWPP - Southwest Power Pool
 
-CENACE - National Center for Energy Control of Mexico
+CENACE - 
 
 In depth discussion of 2021 Texas Power Crisis
 * generators begin to fall off line due to weather. No fuel, cannot operate in cold temperatures, causing grid frequency begins to drop.
