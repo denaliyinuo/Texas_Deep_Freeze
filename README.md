@@ -11,8 +11,6 @@ Source: Scientific American
 
 One of the advantages of having a network that serves a large population is that electricity can easily be transmitted to regions that lack electricity, either due to a surge in demand, or a lull in electricity generation, which could be caused by low wind speeds, cloud cover, or generator failure. Typcailly, AC transmission lines are used in these interconnections, which are less expensive than DC cables over geopraphically short distances. The East, West, and Texas Interconnections can share electricity, but must be done by using DC cables, typically HVDC transmission cables. The interconnections cannot be connected direclty with traditional AC cables, since the grids are out of phase, whereas HVDC cables can avoid this problem. the main caveat of using HVDC cables is that they are expensive, and the capacity of the connections between the three US grids is relatively minute in comparision to the total gneerating capacities of these grids. 
 
-
-
 Currently, ERCOT has HVDC connections with the East Interconnection and the Mexican grid operated by CENACE (National Center for Energy Control of Mexico). 
 SWPP and CENACE. The DC ties with the East Interconnection are connected to the SWPP (Southwest Power Pool) which operates a region generally consiting of Oklahoma, Kansas, Nebraska, and large swaths of the Dakotas. The DC tie capacities are outlined below.
 
@@ -22,13 +20,9 @@ DC Tie Capacities with ERCOT
 
 ![1](/jpeg/ercot.jpeg)
 
-discuss scraped projects and their capacities
+Previously proposed HVDC projects include the Tres Amigas and Southern Cross projects. The Tres Amigas would be located in eastern New Mexico, and connect the Western and Texas Interconnections. The original proposal that was scrapped called for 2000 MW capacity HVDC lines. A current proposal would connect all three interconnections together. The Texas side of this project would be rated at a capacity of 1500 MW. THe Southern Cross project is a proposed 2000 MW HVDC project that would connect ERCOT to SRCC, which serves much of the southeastern United States. For this analysis, a total of 4000 MW will be used as the capacity of proposed HVDC lines to analyze their impact to reduce and shorten the blackouts during the 2021 Texas power crisis.
 
-(include graph comparing capacities of current DC, scraped DC ties, and generating capacity of ERCOT)
-
-SWPP - Southwest Power Pool
-
-CENACE - 
+It is important to understand that the capacities of the existing and proposed HVDC connections pale in comparison to the total installed capacities of all the generators in ERCOT. If the proposed HVDC projects had existed during the 2021 power crisis, they would not have entirely prevented the blackouts, but could have mitigated and shortened the duration of the electricity shortfall. 
 
 In depth discussion of 2021 Texas Power Crisis
 * generators begin to fall off line due to weather. No fuel, cannot operate in cold temperatures, causing grid frequency begins to drop.
