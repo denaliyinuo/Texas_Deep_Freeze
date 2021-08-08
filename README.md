@@ -14,20 +14,21 @@ One of the advantages of having a network that serves a large population is that
 Currently, ERCOT has HVDC connections with the East Interconnection and the Mexican grid operated by CENACE (National Center for Energy Control of Mexico). 
 SWPP and CENACE. The DC ties with the East Interconnection are connected to the SWPP (Southwest Power Pool) which operates a region generally consiting of Oklahoma, Kansas, Nebraska, and large swaths of the Dakotas. The DC tie capacities are outlined below.
 
-DC Tie Capacities with ERCOT
+Existing HVDC Capacities with ERCOT
 * SWPP - 820 MW
 * CENACE - 436 MW
+* Total - 1256 MW
 
 ![1](/jpeg/ercot.jpeg)
 
-Previously proposed HVDC projects include the Tres Amigas and Southern Cross projects. The Tres Amigas would be located in eastern New Mexico, and connect the Western and Texas Interconnections. The original proposal that was scrapped called for 2000 MW capacity HVDC lines. A current proposal would connect all three interconnections together. The Texas side of this project would be rated at a capacity of 1500 MW. THe Southern Cross project is a proposed 2000 MW HVDC project that would connect ERCOT to SRCC, which serves much of the southeastern United States. For this analysis, a total of 4000 MW will be used as the capacity of proposed HVDC lines to analyze their impact to reduce and shorten the blackouts during the 2021 Texas power crisis.
+Previously proposed HVDC projects include the Tres Amigas and Southern Cross projects. The Tres Amigas would be located in eastern New Mexico, and connect the Western and Texas Interconnections. The original proposal that was scrapped called for 2000 MW capacity HVDC lines. A current proposal would connect all three interconnections together. The Texas side of this project would be rated at a capacity of 1500 MW. THe Southern Cross project is a proposed 2000 MW HVDC project that would connect ERCOT to SRCC, which serves much of the southeastern United States. For this analysis, a total of 4000 MW will be used as the capacity of proposed HVDC lines to analyze their impact to reduce and shorten the blackouts during the 2021 Texas power crisis. The proposed projects are more than three times the capacity of the exisiting HVDC lines.
 
-It is important to understand that the capacities of the existing and proposed HVDC connections pale in comparison to the total installed capacities of all the generators in ERCOT. If the proposed HVDC projects had existed during the 2021 power crisis, they would not have entirely prevented the blackouts, but could have mitigated and shortened the duration of the electricity shortfall. 
+Proposed HVDC Capacities with ERCOT
+* Tres Amigas - 2000 MW
+* Southern Cross - 2000 MW
+* Total - 4000 MW
 
-In depth discussion of 2021 Texas Power Crisis
-* generators begin to fall off line due to weather. No fuel, cannot operate in cold temperatures, causing grid frequency begins to drop.
-* DC connections were for most of the crisis running near or at full capacity. Mexico cut off their electricity supply to Texas when it need it the most.
-* 
+It is important to understand that the capacities of the existing and proposed HVDC connections pale in comparison to the total installed capacities of all the generators in ERCOT. If the proposed HVDC projects had existed during the 2021 power crisis, they would not have entirely prevented the blackouts, but could have mitigated and shortened the duration of the electricity shortfall. The figure below shows the power flow through the HVDC lines connected to ERCOT before, during, and after the crisis. Both SWPP and CENACE increased power flow to ERCOT to or near max capacity during the early stages of the storms, but once generators started to fall offline in the early hours of Feburary 15th, CENACE stopped providing electricity during the most critical time. Electricity flow between ERCOT and SWPP did not return to normal until the temperatures had returned to a more historical normal around February 20th. 
 
 ![1](/png/Figure_10.png)
 
@@ -36,8 +37,7 @@ These DC connections would not have prevented the blackout, but would have reduc
 * include stat discussing the amount of reduction in electricity at the peak blackout time. (max shortfall of 28884 MW, could have reduced shortfall by 13.8% during this hour)
 * include stat discussing the reduction in time of the blackouts.
 
-
-Between 3 am on Feb 15th to 6 am on Feb 19th, a 97 hour period, there was an shortfall of approximately 1,670 GWh. Without considering the contributions from the influx of electricity from SWPP and CENACE, ERCOT could only satisfy about 74% of the electricity demand. The inflow from DC ties satisfied about 4% of demand. If the two HVDC projects had not been scrapped, they would have reduced the shortfall by about 24%, resulting in about 84%   
+The most severe blackouts occured between 3 am on February 15th to 6 am on February 19th, a period 97 hours. During this time, there was a shortfall of 1,670 GWh, or an average power flow of approximately 17200 MW, and a max power shortfall of nearly 29000 MW. Based on data from the EIA, the day ahead demand curve was used to estimate the actual demand during this time, and in turn, the estimated electricity shortfall. Excluding the electricity provided by SWPP and CENACE, ERCOT was only able to provide about 74% of the electricity demand during this time. The DC ties with SWPP and CENACE provided additional power to satisfy a little over 1% of the demand, increasing the amount of electricity demand satisfied from 74% to 75%. If the proposed 4000 MW HVDC lines had exisited and were able to run at 100% capacity during this time, then they would satisfied about 6% of demand, increasing the satisfied demand from 75% to 81%. This shows that the proposed HVDC projects would have had a significant impact on reducing the blackouts during this crisis. 
 
 ![2](/png/Figure_11.png)
 
