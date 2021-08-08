@@ -1,16 +1,15 @@
 # Analysis of Texas Increasing Transmission Capacity with Neighboring Grids to Mitigate Future Blackouts
 
-Introduction to 2021 Texas Power Crisis/Deep Freeze
+From Feburary 10th to the 20th in 2021, Texas experienced record low temperatures due to three different winter storms, causing blackouts affecting nearly 5 million Texas homes and businesses. The power crisis also resulted in fuel, water, and food shortages. The electricity shortfall in Texas was mainly due to power generator failures, primarily caused by a lack of fuel for operation, as well as frozen pipes and equipment, coniciding with a surge in electricity demand for space heating.
 
-Potential solutions
-* weatherizing
-* battery storage
-* DC Interconnections
+The most popular potential solutions to mitigate or avoid future energy crisis due to extreme weather events concentrate around weatherizing power facilities. This type of solution is not uncommon in the US due to federal regulations, but is not the norm in Texas. Whereas this solution is by far the most necessary and obvious solution to the problem, one rarely discussed solution is to construct HVDC (high voltage direct current) transmission lines, also known as DC ties, with neighboring electricity grids to mitigate future blackouts.
 
-US has three grids, west, east, and texas interconnections
+Texas is unique in the United States in that most of the state is served by a state owned and operated grid, separate from the rest of the continental US. The US three grids, known as interconnections, and are called the West Interconnection, the East Interconnection, and the Texas Interconnection. 
 
 ![1](/jpeg/us_interconnections.jpeg)
 Source: Scientific American
+
+
 
 Grids are out of phase, and cannot be directly connected using traditional AC transmission cables
 
