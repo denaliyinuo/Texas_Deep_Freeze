@@ -32,13 +32,12 @@ It is important to understand that the capacities of the existing and proposed H
 
 ![1](/png/Figure_10.png)
 
-Introduction to scrapped projects and their capacities.
-These DC connections would not have prevented the blackout, but would have reduced their impact and shortened the duration.
-* include stat discussing the amount of reduction in electricity at the peak blackout time. (max shortfall of 28884 MW, could have reduced shortfall by 13.8% during this hour)
-* include stat discussing the reduction in time of the blackouts.
-
 The most severe blackouts occured between 3 am on February 15th to 6 am on February 19th, a period 97 hours. During this time, there was a shortfall of 1,670 GWh, or an average power flow of approximately 17200 MW, and a max power shortfall of nearly 29000 MW. Based on data from the EIA, the day ahead demand curve was used to estimate the actual demand during this time, and in turn, the estimated electricity shortfall. Excluding the electricity provided by SWPP and CENACE, ERCOT was only able to provide about 74% of the electricity demand during this time. The DC ties with SWPP and CENACE provided additional power to satisfy a little over 1% of the demand, increasing the amount of electricity demand satisfied from 74% to 75%. If the proposed 4000 MW HVDC lines had exisited and were able to run at 100% capacity during this time, then they would satisfied about 6% of demand, increasing the satisfied demand from 75% to 81%. This shows that the proposed HVDC projects would have had a significant impact on reducing the blackouts during this crisis. 
+
+![2](/png/Figure_8.png)
+
+The blackouts during this crisis started on Feburary 10th, and lasted all the way until February 27th, a total of 17 days. The chart below illustrates the impact of the propsed HVDC lines on the power crisis. It appears that the additional 4000 MW of power would have been able to provide enough power that a significant amount of the shortfall would have been elimiated by February 18th, albeit certain communities would not have had power due to damage on local transmission lines. This shows that the proposed HVDC lines would have shortened the blackouts during this crisis. 
 
 ![2](/png/Figure_11.png)
 
-![2](/png/Figure_8.png)
+Not only does weatherizing power equipment and the installation of battery storage needed to avert blackouts during weather crisis, the construction of large capacity HVDC lines is also needed to mitigate future blackouts. They will create a more resilient grid that can not only avert disaster, as was experienced in 2021, but it also has the capability of exporting variable renewable energy, such as wind and solar, to the rest of the United States. This is an important technology, and is vital in maintaining the viability of the Texas grid.
