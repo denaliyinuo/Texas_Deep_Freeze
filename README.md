@@ -9,11 +9,9 @@ Texas is unique in the United States in that most of the state is served by a st
 ![1](/jpeg/us_interconnections.jpeg)
 Source: Scientific American
 
+One of the advantages of having a network that serves a large population is that electricity can easily be transmitted to regions that lack electricity, either due to a surge in demand, or a lull in electricity generation, which could be caused by low wind speeds, cloud cover, or generator failure. Typcailly, AC transmission lines are used in these interconnections, which are less expensive than DC cables over geopraphically short distances. The East, West, and Texas Interconnections can share electricity, but must be done by using DC cables, typically HVDC transmission cables. The interconnections cannot be connected direclty with traditional AC cables, since the grids are out of phase, whereas HVDC cables can avoid this problem. the main caveat of using HVDC cables is that they are expensive, and the capacity of the connections between the three US grids is relatively minute in comparision to the total gneerating capacities of these grids. 
 
 
-Grids are out of phase, and cannot be directly connected using traditional AC transmission cables
-
-In order for electricity to be tranferred between seperate grids, they must travel through HVDC cables. 
 
 Currently, ERCOT has HVDC connections with SWPP and CENACE
 
